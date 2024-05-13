@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## Pages
+| home page| input page | after input |
+| -------- | -------- | -------- |
+| ![](https://github.com/ttcyt/irc_simplify_note_app/blob/main/pages/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-05-13%20101943.png)|![](https://github.com/ttcyt/irc_simplify_note_app/blob/main/pages/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-05-13%20102118.png)|![](https://github.com/ttcyt/irc_simplify_note_app/blob/main/pages/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-05-13%20102130.png)|
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
